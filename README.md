@@ -2,7 +2,6 @@
 
 ## DARKMODE
 
-
 ### I'm testing my JavaScript skills with this little project.
 
 ## Technologies
