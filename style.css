@@ -1,0 +1,36 @@
+body{
+    background: white;
+    font: normal 15pt Arial;
+}
+header{
+    text-align: center;
+}
+div{
+    text-align: center;
+    padding: 9px;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
+
+#botao{
+    width: 200px;
+    height: 100px;
+    font: normal 15pt Arial;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.521);
+    background: #414153;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.dark-mode {
+    background-color: #383838;
+    color: white;
+}
+.light-mode {
+    background-color: white;
+    color: black;
+}
